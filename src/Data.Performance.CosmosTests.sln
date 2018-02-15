@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loadtesting.Console.Threaded", "loadtesting.Console.Threaded\loadtesting.Console.Threaded.csproj", "{2BACD64B-0483-4608-8CC5-46EF75F57932}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loadteseting.function", "loadteseting.function\loadteseting.function.csproj", "{5CB70984-1907-4A8E-830C-9B9CAE8B37AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C6DCB2EC-5EAC-4FBD-B601-935656FF9A7D}"
+	ProjectSection(SolutionItems) = preProject
+		..\readme.md = ..\readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BACD64B-0483-4608-8CC5-46EF75F57932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BACD64B-0483-4608-8CC5-46EF75F57932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BACD64B-0483-4608-8CC5-46EF75F57932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BACD64B-0483-4608-8CC5-46EF75F57932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB70984-1907-4A8E-830C-9B9CAE8B37AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB70984-1907-4A8E-830C-9B9CAE8B37AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB70984-1907-4A8E-830C-9B9CAE8B37AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB70984-1907-4A8E-830C-9B9CAE8B37AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7705A634-38A7-442D-8176-CAC0E99B7673}
+	EndGlobalSection
+EndGlobal

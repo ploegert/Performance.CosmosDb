@@ -1,0 +1,9 @@
+{
+  "id": "int-1million",
+  "objectType": "User",
+  "userId": "string-16",
+  "userFirstName": "string-64",
+  "userLastName": "string-64",
+  "password": "string-8",
+  "jwt": "100byte"
+}
